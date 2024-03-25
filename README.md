@@ -1,5 +1,5 @@
-# SQL
-## SQL portfolio
+# SQL Portfolio
+
 
 Welcome to my portfolio showcasing a collection of SQL projects that I have meticulously crafted. As a skilled SQL developer, I have honed my expertise in leveraging the power of structured query language to manipulate and extract valuable insights from databases. Within this portfolio, you will find a diverse range of projects that highlight my proficiency in database management, data analysis, and query optimization.
 
