@@ -39,7 +39,7 @@ ORDER BY price desc;
 SELECT SUM(price),category
 FROM superstore
 GROUP BY category
-ORDER BY SUM(price) DESC;
+ORDER BY SUM(price) desc;
 
 -- Average price sold from the Kitchen Supplies category
 SELECT AVG(price)
